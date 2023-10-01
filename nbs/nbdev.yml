@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hello-blog"
+  site-url: "https://dsshimel.github.io/hello-blog"
+  description: "run nbdev_new"
+  repo-branch: main
+  repo-url: "https://github.com/dsshimel/hello-blog"
