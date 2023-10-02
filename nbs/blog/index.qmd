@@ -1,5 +1,5 @@
 ---
-title: Example Blog
+title: David Shimel Hello Blog
 subtitle: Publishing with Quarto and nbdev
 listing:
   sort: "date desc"
