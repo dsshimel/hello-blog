@@ -4,6 +4,12 @@ project:
 website:
   title: "hello-blog"
   site-url: "https://dsshimel.github.io/hello-blog"
-  description: "run nbdev_new"
+  description: "My first attempt at creating a blog with nbdev"
   repo-branch: main
   repo-url: "https://github.com/dsshimel/hello-blog"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Blog"
+        href: blog/index.qmd
