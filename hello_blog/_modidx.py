@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://dsshimel.github.io',
                 'git_url': 'https://github.com/dsshimel/hello-blog',
                 'lib_path': 'hello_blog'},
-  'syms': {'hello_blog.core': {'hello_blog.core.foo': ('core.html#foo', 'hello_blog/core.py')}}}
+  'syms': {'hello_blog.core': {'hello_blog.core.foo': ('blog/posts/2023-10-01-hello-blog/index.html#foo', 'hello_blog/core.py')}}}
