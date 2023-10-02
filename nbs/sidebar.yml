@@ -1,0 +1,12 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: blog
+        contents:
+          - blog\index.qmd
+          - section: posts
+            contents:
+              - section: 2023-10-01-hello-blog
+                contents:
+                  - blog\posts\2023-10-01-hello-blog\index.ipynb
