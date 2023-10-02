@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "blog/posts/2023-10-01-hello-blog/index.html",
+    "href": "blog/posts/2023-10-01-hello-blog/index.html",
+    "title": "Hello, Blog!",
+    "section": "",
+    "text": "Here’s some markdown on my first page * item 1 * item 2 * item 3\n\nfrom transformers import pipeline\nclassifier = pipeline('sentiment-analysis')\nclassifier('We are very happy to show you the 🤗 Transformers library.')\n\nNo model was supplied, defaulted to distilbert-base-uncased-finetuned-sst-2-english and revision af0f99b (https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english).\nUsing a pipeline without specifying a model name and revision in production is not recommended.\n\n\n[{'label': 'POSITIVE', 'score': 0.9997795224189758}]"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "David Shimel Hello Blog",
+    "section": "",
+    "text": "Hello, Blog!\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  }
+]
